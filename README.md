@@ -57,7 +57,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VIJAYAKRISHNATELA&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VIJAYAKRISHNATELA&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VIJAYAKRISHNATELA&exclude_repo=repo-name)
 
 ---
 
