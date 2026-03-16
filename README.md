@@ -63,7 +63,7 @@
 
 # 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VIJAYAKRISHNATELA&theme=tokyo-night)
 
 ---
 
