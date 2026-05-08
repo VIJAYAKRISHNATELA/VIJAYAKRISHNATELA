@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vijay Krishna</h1>
+<!-- <h1 align="center">Hi 👋, I'm Vijay Krishna</h1>
 <h3 align="center">B.Tech CSE Student | Java Developer | Spring Boot Learner</h3>
 
 <p align="center">
@@ -65,4 +65,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/vijayakrishna-tela)
 
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:) -->
